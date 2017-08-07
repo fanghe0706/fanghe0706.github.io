@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://fanghe.org
+url: fanghe1995.github.io
 date_format: "ordinal"
 title: 总结记录
 subtitle: "总结看的更透彻"
@@ -17,8 +17,6 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: He Fang
-organization: zkh360.com
-organization_url: http://www.zkh360.com
 github_username: fanghe1995
 location: Jinan, China
 email: fanghe1995@126.com
