@@ -20,19 +20,19 @@ keywords: Github pages, 博客
 
 如果觉得官网英文难以理解，可以跟随下面的中文教程：
 
-1. 登录github页面，创建新仓库（New repository）
+一、 登录github页面，创建新仓库（New repository）
 
-(/images/posts/tools/setup-blog-using-github/1.png)
+![OpenGrok Search and Browse](/images/posts/tools/setup-blog-using-github/1.png)
 
-2. 填写项目库名称，github规定，按照username.github.io创建的项目仓库，可以自动生成一个github page，存放在https://username.github.io下。（如下图所示，因为我已经创建过博客，所以显示账户已经存在）
+二、 填写项目库名称，github规定，按照username.github.io创建的项目仓库，可以自动生成一个github page，存放在https://username.github.io下。（如下图所示，因为我已经创建过博客，所以显示账户已经存在）
 
 ![OpenGrok Search and Browse](/images/posts/tools/setup-blog-using-github/2.png)
 
-3. 仓库创建完成后，点击如图所示的Set up in Desktop（如果你预先跟随github pages的入门教程操作过一遍，那么你的电脑上应该已经安装了Github客户端），将项目同步到本地。
+三、 仓库创建完成后，点击如图所示的Set up in Desktop（如果你预先跟随github pages的入门教程操作过一遍，那么你的电脑上应该已经安装了Github客户端），将项目同步到本地。
 
 ![OpenGrok Search and Browse](/images/posts/tools/setup-blog-using-github/3.png)
 
-4. 此时，你已经拥有个空白的博客网站。接下来就需要微博客网站添加内容。网页可以自己手写，也可以colone他人的项目。
+四、 此时，你已经拥有个空白的博客网站。接下来就需要微博客网站添加内容。网页可以自己手写，也可以colone他人的项目。
 
 ### 克隆他人页面
 
@@ -42,23 +42,23 @@ keywords: Github pages, 博客
 
 上面是我克隆的博客模板的地址，笔者将以此为例进行说明。（可以参照该项目的README来建站）
 
-1. 克隆项目到本地
+一、 克隆项目到本地
 
    将colone到本地的项目拷贝到你自己的本地项目下，如图，除了圈出的部分，其余全部拷贝
 
 ![OpenGrok Search and Browse](/images/posts/tools/setup-blog-using-github/4.png)
 
-2. 修改域名
+二、 修改域名
 
    如果你需要绑定自己的域名，那么修改 CNAME 文件的内容；如果不需要绑定自己的域名，那么删掉 CNAME 文件。
 
-3. 修改配置
+三、 修改配置
 
    网站的配置基本都集中在 _config.yml 文件中，将其中与个人信息相关的部分替换成你自己的，比如网站的 title、subtitle 和 Disqus 的用户名等。
 
    因为 Disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的。
 
-4. 删除无用文件
+四、 删除无用文件
 
    如下文件夹中除了 template.md 文件外，都可以全部删除，然后添加你自己的内容。
 
@@ -70,7 +70,7 @@ keywords: Github pages, 博客
 
    * images 文件夹中是我的文章和页面里使用的图片。
 
-5. 修改「关于」页面
+五、 修改「关于」页面
 
    修改pages文件夹下的 `about.md` 文件
    pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息，包括 _data 目录下的 skills.yml 和 social.yml 文件里的数据。
@@ -90,4 +90,6 @@ keywords: Github pages, 博客
 
 ![OpenGrok Search and Browse](/images/posts/tools/setup-blog-using-github/8.png)
 
+  测试评论：
+  
 ![OpenGrok Search and Browse](/images/posts/tools/setup-blog-using-github/7.png)
