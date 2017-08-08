@@ -95,8 +95,8 @@ gitment:
     owner: fanghe1995
     repo: blog-comments
     oauth:
-        client_id: 47fee0519e1804635079
-        client_secret: b7254bffb03f5b9a7ba60dea818d82bd3a1a9649
+        client_id: eb28f941d07b6f316711
+        client_secret: e332175c2ae1a09f95cc9c0a4f5f94472a716a1e
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
