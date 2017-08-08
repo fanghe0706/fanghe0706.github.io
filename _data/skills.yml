@@ -1,17 +1,17 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java Script
+      - JavaScript
       - C#
-      //- Python
-      //- Design Patterns
+      - Python
+      - Design Patterns
 
-- //name: Mobile Developer Keywords
-  //keywords:
+- name: Mobile Developer Keywords
+  keywords:
       - Android
       - Reverse Engineering
 
-- //name: Windows Developer Keywords
-  //keywords:
+- name: Windows Developer Keywords
+  keywords:
       - Win32 SDK
       - DuiLib
       - WTL
