@@ -22,9 +22,9 @@ keywords: Github pages, 博客
 
 1. 登录github页面，创建新仓库（New repository）
 
-![OpenGrok Search and Browse](/images/posts/tools/setup-blog-using-github/1.png)
+(/images/posts/tools/setup-blog-using-github/1.png)
 
-2. 填写项目库名称，github规定，按照username.github.io创建的项目仓库，可以自动生成一个github page，存放在https://username.github.io下。（如下图所示，因为我已经创建国博客，所以显示账户已经存在）
+2. 填写项目库名称，github规定，按照username.github.io创建的项目仓库，可以自动生成一个github page，存放在https://username.github.io下。（如下图所示，因为我已经创建过博客，所以显示账户已经存在）
 
 ![OpenGrok Search and Browse](/images/posts/tools/setup-blog-using-github/2.png)
 
