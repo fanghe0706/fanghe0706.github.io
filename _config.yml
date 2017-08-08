@@ -4,10 +4,10 @@
 baseurl:
 url: https://fanghe1995.github.io
 date_format: "ordinal"
-title: 浮生若梦
-subtitle: "房贺"
+title: F.H
+subtitle: "study, life and giser"
 description: "房贺的个人博客"
-keywords: study, life, fanghe
+keywords: study, life, giser
 favicon: /favicon.ico
 timezone: Asia/Beijing
 encoding: "utf-8"
