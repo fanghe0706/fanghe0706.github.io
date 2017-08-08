@@ -5,7 +5,7 @@ baseurl:
 url: fanghe1995.github.io
 date_format: "ordinal"
 title: fanghe
-subtitle: "总结看的更透彻"
+subtitle: "fanghe"
 description: "房贺的个人博客"
 keywords: fanghe, He Fang, fanghe1995
 favicon: /favicon.ico
@@ -17,6 +17,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: He Fang
+organization:fanghe
+organization_url:fanghe1995.github.io
 github_username: fanghe1995
 location: Jinan, China
 email: fanghe1995@126.com
