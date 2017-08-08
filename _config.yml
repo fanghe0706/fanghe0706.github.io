@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: fanghe1995.github.io
+url: https://fanghe1995.github.io
 date_format: "ordinal"
 title: 浮生若梦
-subtitle: "fanghe"
+subtitle: "房贺"
 description: "房贺的个人博客"
-keywords: study, life, fanghe1995, fanghe
+keywords: study, life, fanghe
 favicon: /favicon.ico
 timezone: Asia/Beijing
 encoding: "utf-8"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: He Fang
-organization: 浮生若梦
+organization: 
 organization_url: 
 github_username: fanghe1995
 location: Jinan, China

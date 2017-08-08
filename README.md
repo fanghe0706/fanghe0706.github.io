@@ -1,6 +1,6 @@
-# 码志
+# 浮生若梦
 
-我的个人博客：<http://fanghe.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://fanghe1995.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -15,9 +15,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://fanghe.org)**
+**[在线预览 &rarr;](https://fanghe1995.github.io)**
 
-![screenshot home](http://fanghe.org/assets/images/screenshots/home.png)
+![screenshot home](https://fanghe1995.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
