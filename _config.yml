@@ -92,11 +92,11 @@ disqus:
     username: fanghe0706
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: fanghe
+    owner: fanghe0706
     repo: blog-comments
     oauth:
-        client_id: 08e121dcb652eb5c38f9
-        client_secret: 4b1686dcf2e36ce2ce02aebb43bf00b37ebc9c34
+        client_id: 28e38f111fa40bd50077
+        client_secret: 85251186513c0501e6cf5887e8ee6df9f748f394
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
