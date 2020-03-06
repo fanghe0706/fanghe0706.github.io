@@ -89,7 +89,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username:
+    username: fanghe0706
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: fanghe0706
@@ -104,7 +104,7 @@ gitalk:
     clientID: 65b7ed294e2db94646f8
     clientSecret: 9188b4377ba2512268e9484a067b6c7216d80e67
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+lazy_load_disqus : true
 
 # ---------------- #
 #      Search      #
